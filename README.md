@@ -11,3 +11,4 @@
 - I send responses to all endpoints using all available HTTP methods
 - the expected HTTP responses are received together with the HTTP messages following the requests.
 - I wrote test-cases through which I validated the answer coming from the available templates that Postman offers.
+

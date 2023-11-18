@@ -9,6 +9,6 @@
 ## 3. Tests used for validation
 - for this API no autenthication token is needed
 - I send responses to all endpoints using all available HTTP methods
-- the expected HTTP responses are received together with the HTTP messages following the requests.
+- the expected HTTP responses are received together with the HTTP messages following the requests (200, 201, 204 and 404).
 - I wrote test-cases through which I validated the answer coming from the available templates that Postman offers.
 

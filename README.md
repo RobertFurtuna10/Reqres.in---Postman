@@ -12,3 +12,6 @@
 - the expected HTTP responses are received together with the HTTP messages following the requests (200, 201, 204 and 404).
 - I wrote test-cases through which I validated the answer coming from the available templates that Postman offers.
 
+## 4. Link to API
+[Reqres.in](https://github.com/RobertFurtuna10/Reqres.in---Postman/blob/main/reqres.in.postman_collection.json.json)
+
